@@ -1,2 +1,2 @@
-Hello World
+Hello World\n
 Currently learning about GitHub
